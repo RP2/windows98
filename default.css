@@ -1,0 +1,14 @@
+button {
+    align-items: flex-start;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    background-color: #c0c0c0;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: white;
+    border-image: initial;
+    outline: 0;
+}
